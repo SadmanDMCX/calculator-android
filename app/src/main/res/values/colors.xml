@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FC4D3D</color>
+    <color name="colorPrimaryDark">#C33A33</color>
+    <color name="colorAccent">#252525</color>
+    
+    <color name="cGra1">#FC4D3D</color>
+    <color name="cGra2">#FB4146</color>
+    <color name="cGra3">#FB3450</color>
+
+    <color name="cWhite">#ffffff</color>
+    <color name="cBlack">#212121</color>
+    <color name="cLTBlack">#414141</color>
+    <color name="cGray">#757575</color>
+    <color name="cLTGray">#b9b9b9</color>
+    <color name="cWhiteOp130">#82ffffff</color>
+    <color name="cBlackOp130">#80000000</color>
+    <color name="cDKViolate">#291933</color>
+</resources>
